@@ -147,9 +147,3 @@ The `*_homogenized_full.csv` file (`;` separator):
 | `Mises` | Homogenized von Mises stress |
 | `S11`, `S22`, `S33` | Homogenized normal stress components |
 | `PEEQ` | Homogenized equivalent plastic strain |
-
-## Author
-
-**cadmusinho** – engineering thesis project.
-
-<!-- TODO: add a license (e.g. MIT) and a LICENSE file -->

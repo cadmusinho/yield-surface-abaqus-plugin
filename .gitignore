@@ -1,0 +1,10 @@
+.venv/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*.odb
+*.sim
+*.lck
+*.log
+*.csv
